@@ -1,12 +1,11 @@
 # FrissShinyDashboardTemplate
-FrissShinyTemplate based on AdminLTE - ShinyDashboard
 
 the template is based on the AdminLTE bootstrap3 framework: https://almsaeedstudio.com/preview
 
-in order to use the template run
+in order to use the template install the shinydashboard from CRAN:
 
 ```r
 install.packages("shinydashboard")
 ```
 
-See also the documentation at http://rstudio.github.io/shinydashboard/
+Documentation is available at http://rstudio.github.io/shinydashboard/
