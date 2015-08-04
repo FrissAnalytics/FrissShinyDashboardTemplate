@@ -8,4 +8,4 @@ in order to use the template install the shinydashboard from CRAN:
 install.packages("shinydashboard")
 ```
 
-Documentation is available at http://rstudio.github.io/shinydashboard/
+documentation is available at http://rstudio.github.io/shinydashboard/
