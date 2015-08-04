@@ -1,0 +1,74 @@
+/* top header left logo part*/
+.skin-blue .main-header .logo {
+background-color: #333;
+border-color: #FFF;
+color: #FFF;
+opacity: 1;
+}
+
+/* top header left logo part on hover*/
+.skin-blue .main-header .logo:hover {
+background-color: #333;
+border-color: #FFF;
+color: #FFF;
+opacity: 0.95;
+}
+
+/* top header right part*/
+.skin-blue .main-header .navbar {
+background-color: #333;
+border-color: #FFF;
+color: #FFF;
+opacity: 0.95;
+}        
+
+/* top header sidebar toggle logo */
+.skin-blue .main-header .navbar .sidebar-toggle {
+    color: #10baed;
+}
+
+/* top header sidebar toggle logo on hover*/
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #10baed;
+	color:white;
+}
+
+/* main sidebar */
+.skin-blue .main-sidebar {
+background-color: #333;
+border-color: #FFF;
+color: #FFF;
+opacity: 0.95;
+}
+
+/* Friss top logo left hand side */
+#FrissLogo{
+  position:fixed; 
+  top: 13px; 
+  left:15px;
+  z-index: 100000000000;
+  height: 25px;
+}
+
+/* Friss top right left hand side text */
+#FrissLogoText{
+  position:fixed; 
+  top: 21px; 
+  left:240px;
+  z-index: 100000000000;
+}
+
+/* main tab content */
+.content-wrapper{
+background-color: white;
+}
+
+/* side bar hover color strip (lhs)*/
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+    border-left-color: #e7318a;
+}
+
+
+
+
+
