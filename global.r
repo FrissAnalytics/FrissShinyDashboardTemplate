@@ -14,5 +14,5 @@ FrissHeader <- function(){tags$head(
   singleton(includeScript("www/d3.js")),
   singleton(includeScript("www/underscore.js")),
   singleton(includeScript("www/jquery-ui.js")),
-  singleton(includeCSS("www/App.css"))
+  singleton(includeCSS("www/app.css"))
 )}
